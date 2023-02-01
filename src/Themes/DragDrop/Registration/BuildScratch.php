@@ -19,6 +19,7 @@ class BuildScratch extends AbstractBuildScratch
             $standard_fields['reg-password'],
             $standard_fields['reg-first-name'],
             $standard_fields['reg-last-name'],
+            $standard_fields['reg-phonenumber']
         ];
     }
 }

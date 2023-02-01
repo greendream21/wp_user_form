@@ -20,6 +20,7 @@ class BuildScratch extends AbstractBuildScratch
             $standard_fields['edit-profile-last-name'],
             $standard_fields['edit-profile-website'],
             $standard_fields['edit-profile-bio'],
+            $standard_fields['edit-profile-phonenumber']
         ];
     }
 }
