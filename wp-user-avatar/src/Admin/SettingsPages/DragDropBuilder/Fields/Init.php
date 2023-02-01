@@ -38,6 +38,7 @@ class Init
             new Number();
             new Country();
             new Date();
+            new PhoneNumber();
             new DefinedFieldTypes\Agreeable();
             new DefinedFieldTypes\Checkbox();
             new DefinedFieldTypes\Input();
